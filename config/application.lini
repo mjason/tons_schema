@@ -1,0 +1,59 @@
+[business]
+cae_beam = 1
+play_vol = 10
+sys_mode = "private"
+welcome = [ ]
+
+  [business.asr]
+  asr_mode = 3
+  cmd_send_mode = 1
+  enter_asr = [ ]
+  exit_asr = [ ]
+  loop_mode = true
+  timeout = 20
+
+[driver.codec]
+i2c = 1
+i2s = 0
+
+  [driver.codec.adc]
+  adc_gain = [ 10, 10, 3, 3 ]
+  adc_type = "es7210"
+  mic_chs = [ 1, 2 ]
+  ref_chs = [ 3, 3 ]
+
+[driver.infrared]
+ch = 1
+duty = 160
+freq = 38_000
+pwm = 0
+resend = 8
+
+[driver.uart_ctrl]
+baudrate = 115_200
+uart = 2
+
+[driver.uart_logs]
+baudrate = 115_200
+uart = 1
+
+[factory]
+check_enter_level = false
+check_gpios_delay = 2
+enable = false
+
+[hw_config]
+i2s_out_chs = [ 1, 2, 5, 6 ]
+i2s_out_enable = true
+
+  [hw_config.mic]
+  dist = 35
+  type = "amic"
+
+  [hw_config.usb_mode]
+  custom_enable = true
+  uac_in_channel = 3
+  uac_in_enable = false
+
+[ui_schema]
+from = "@board/lskits-csk4002"

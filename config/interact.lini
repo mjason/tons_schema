@@ -1,0 +1,1168 @@
+template = "208e1a13-a23b-4959-8aa3-5527034b716b"
+
+[[interact]]
+action = "wakeup"
+cmds = ""
+id = 251
+msg = ""
+pinyin = "xiao3 fei1 xiao3 fei1"
+play = 1
+playText = "我在"
+status = "ok"
+text = "小飞小飞"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 252
+pinyin = "da3 kai1 kong1 tiao2"
+play = 2
+playText = "空调已打开"
+status = "warning:存在多音字;"
+text = "打开空调"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 253
+pinyin = "kai1 kong1 tiao2"
+play = 2
+playText = "空调已打开"
+status = "warning:存在多音字;避免出现子串;"
+text = "开空调"
+msg = "存在多音字;避免出现子串;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 254
+pinyin = "kai1 ji1"
+play = 2
+playText = "空调已打开"
+status = "ok"
+text = "开机"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 255
+pinyin = "guan1 bi4 kong1 tiao2"
+play = 3
+playText = "空调已关闭"
+status = "warning:存在多音字;"
+text = "关闭空调"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 256
+pinyin = "guan1 kong1 tiao2"
+play = 3
+playText = "空调已关闭"
+status = "warning:存在多音字;"
+text = "关空调"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 257
+pinyin = "guan1 ji1"
+play = 3
+playText = "空调已关闭"
+status = "ok"
+text = "关机"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 258
+pinyin = "tiao2 gao1 wen1 du4"
+play = 4
+playText = "温度已调高"
+status = "warning:存在多音字;"
+text = "调高温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 259
+pinyin = "sheng1 gao1 wen1 du4"
+play = 4
+playText = "温度已调高"
+status = "warning:存在多音字;"
+text = "升高温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 260
+pinyin = "tiao2 di1 wen1 du4"
+play = 5
+playText = "温度已调低"
+status = "warning:存在多音字;"
+text = "调低温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 261
+pinyin = "jiang4 di1 wen1 du4"
+play = 5
+playText = "温度已调低"
+status = "warning:存在多音字;"
+text = "降低温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 262
+pinyin = "tai4 leng3 le4"
+play = 4
+playText = "温度已调高"
+status = "warning:存在多音字;"
+text = "太冷了"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 263
+pinyin = "tai4 re4 le4"
+play = 5
+playText = "温度已调低"
+status = "warning:存在多音字;"
+text = "太热了"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 264
+pinyin = "zhi4 leng3 mo2 shi4"
+play = 6
+playText = "好的，模式已设为制冷"
+status = "warning:存在多音字;"
+text = "制冷模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 265
+pinyin = "chu2 shi1 mo2 shi4"
+play = 7
+playText = "好的，模式已设为除湿"
+status = "warning:存在多音字;"
+text = "除湿模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 266
+pinyin = "song4 feng1 mo2 shi4"
+play = 8
+playText = "好的，模式已设为送风"
+status = "warning:存在多音字;"
+text = "送风模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 267
+pinyin = "tong1 feng1 mo2 shi4"
+play = 9
+playText = "好的，模式已设为通风"
+status = "warning:存在多音字;"
+text = "通风模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 268
+pinyin = "zhi4 re4 mo2 shi4"
+play = 10
+playText = "好的，模式已设为制热"
+status = "warning:存在多音字;"
+text = "制热模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 269
+pinyin = "jia1 re4 mo2 shi4"
+play = 11
+playText = "好的，模式已设为加热"
+status = "warning:存在多音字;"
+text = "加热模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 270
+pinyin = "gao1 feng1 dang4"
+play = 12
+playText = "风速档位已设为高"
+status = "ok"
+text = "高风档"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 271
+pinyin = "gao1 su4 feng1"
+play = 12
+playText = "风速档位已设为高"
+status = "ok"
+text = "高速风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 272
+pinyin = "zhong1 feng1 dang4"
+play = 13
+playText = "风速档位已设为中"
+status = "ok"
+text = "中风档"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 273
+pinyin = "zhong1 su4 feng1"
+play = 13
+playText = "风速档位已设为中"
+status = "ok"
+text = "中速风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 274
+pinyin = "di1 feng1 dang4"
+play = 14
+playText = "风速档位已设为低"
+status = "ok"
+text = "低风档"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 275
+pinyin = "di1 su4 feng1"
+play = 14
+playText = "风速档位已设为低"
+status = "ok"
+text = "低速风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 276
+pinyin = "ti2 gao1 feng1 su4"
+play = 15
+playText = "风速已调大"
+status = "ok"
+text = "提高风速"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 277
+pinyin = "jia1 da4 feng1 su4"
+play = 15
+playText = "风速已调大"
+status = "ok"
+text = "加大风速"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 278
+pinyin = "qiang2 li4 feng1"
+play = 16
+playText = "风速模式已设为强力"
+status = "warning:存在多音字;"
+text = "强力风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 279
+pinyin = "zui4 da4 feng1"
+play = 17
+playText = "风速已设为最大"
+status = "ok"
+text = "最大风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 280
+pinyin = "jian3 xiao3 feng1 su4"
+play = 18
+playText = "风速已降低"
+status = "ok"
+text = "减小风速"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 281
+pinyin = "jiang4 di1 feng1 su4"
+play = 18
+playText = "风速已降低"
+status = "warning:存在多音字;"
+text = "降低风速"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 282
+pinyin = "jing4 yin1 feng1"
+play = 19
+playText = "风速模式已设为静音"
+status = "ok"
+text = "静音风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 283
+pinyin = "zui4 xiao3 feng1"
+play = 20
+playText = "风速已设为最小"
+status = "ok"
+text = "最小风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 284
+pinyin = "zi4 dong4 feng1"
+play = 21
+playText = "风速模式已设为自动"
+status = "ok"
+text = "自动风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 285
+pinyin = "zuo3 you4 bai3 feng1"
+play = 22
+playText = "左右方向摆风已打开"
+status = "warning:避免出现子串;"
+text = "左右摆风"
+msg = "避免出现子串;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 286
+pinyin = "kai1 qi3 zuo3 you4 bai3 feng1"
+play = 23
+playText = "左右方向摆风已开启"
+status = "ok"
+text = "开启左右摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 287
+pinyin = "da3 kai1 zuo3 you4 bai3 feng1"
+play = 22
+playText = "左右方向摆风已打开"
+status = "ok"
+text = "打开左右摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 288
+pinyin = "zuo3 you4 sao3 feng1"
+play = 24
+playText = "左右方向扫风已打开"
+status = "warning:存在多音字;避免出现子串;"
+text = "左右扫风"
+msg = "存在多音字;避免出现子串;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 289
+pinyin = "kai1 qi3 zuo3 you4 sao3 feng1"
+play = 24
+playText = "左右方向扫风已打开"
+status = "warning:存在多音字;"
+text = "开启左右扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 290
+pinyin = "da3 kai1 zuo3 you4 sao3 feng1"
+play = 24
+playText = "左右方向扫风已打开"
+status = "warning:存在多音字;"
+text = "打开左右扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 291
+pinyin = "guan1 bi4 zuo3 you4 bai3 feng1"
+play = 25
+playText = "左右方向摆风已关闭"
+status = "ok"
+text = "关闭左右摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 292
+pinyin = "ting2 zhi3 zuo3 you4 bai3 feng1"
+play = 26
+playText = "左右方向摆风已停止"
+status = "ok"
+text = "停止左右摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 293
+pinyin = "guan1 bi4 zuo3 you4 sao3 feng1"
+play = 27
+playText = "左右方向扫风已关闭"
+status = "warning:存在多音字;"
+text = "关闭左右扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 294
+pinyin = "ting2 zhi3 zuo3 you4 sao3 feng1"
+play = 28
+playText = "左右方向扫风已停止"
+status = "warning:存在多音字;"
+text = "停止左右扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 295
+pinyin = "shang4 xia4 bai3 feng1"
+play = 29
+playText = "上下方向摆风已打开"
+status = "warning:避免出现子串;"
+text = "上下摆风"
+msg = "避免出现子串;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 296
+pinyin = "kai1 qi3 shang4 xia4 bai3 feng1"
+play = 30
+playText = "上下方向摆风已开启"
+status = "ok"
+text = "开启上下摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 297
+pinyin = "da3 kai1 shang4 xia4 bai3 feng1"
+play = 29
+playText = "上下方向摆风已打开"
+status = "ok"
+text = "打开上下摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 298
+pinyin = "guan1 bi4 shang4 xia4 bai3 feng1"
+play = 31
+playText = "上下方向摆风已关闭"
+status = "ok"
+text = "关闭上下摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 299
+pinyin = "ting2 zhi3 shang4 xia4 bai3 feng1"
+play = 32
+playText = "上下方向摆风已停止"
+status = "ok"
+text = "停止上下摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 300
+pinyin = "da3 kai1 sao3 feng1"
+play = 33
+playText = "扫风已打开"
+status = "warning:存在多音字;"
+text = "打开扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 301
+pinyin = "da3 kai1 bai3 feng1"
+play = 34
+playText = "摆风已打开"
+status = "ok"
+text = "打开摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 302
+pinyin = "guan1 bi4 bai3 feng1"
+play = 35
+playText = "摆风已关闭"
+status = "ok"
+text = "关闭摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 303
+pinyin = "ting2 zhi3 bai3 feng1"
+play = 36
+playText = "摆风已停止"
+status = "ok"
+text = "停止摆风"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 304
+pinyin = "guan1 bi4 sao3 feng1"
+play = 37
+playText = "扫风已关闭"
+status = "warning:存在多音字;"
+text = "关闭扫风"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 305
+pinyin = "da3 kai1 shui4 mian2"
+play = 38
+playText = "好的，模式已设置为睡眠"
+status = "ok"
+text = "打开睡眠"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 306
+pinyin = "kai1 shi3 shui4 mian2"
+play = 38
+playText = "好的，模式已设置为睡眠"
+status = "ok"
+text = "开始睡眠"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 307
+pinyin = "kai1 shui4 mian2"
+play = 38
+playText = "好的，模式已设置为睡眠"
+status = "warning:避免出现子串;"
+text = "开睡眠"
+msg = "避免出现子串;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 308
+pinyin = "guan1 bi4 shui4 mian2"
+play = 39
+playText = "睡眠模式已关闭"
+status = "ok"
+text = "关闭睡眠"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 309
+pinyin = "ting2 zhi3 shui4 mian2"
+play = 39
+playText = "睡眠模式已关闭"
+status = "ok"
+text = "停止睡眠"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 310
+pinyin = "guan1 shui4 mian2"
+play = 39
+playText = "睡眠模式已关闭"
+status = "ok"
+text = "关睡眠"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 311
+pinyin = "zeng1 da4 yin1 liang4"
+play = 40
+playText = "音量已增大"
+status = "warning:存在多音字;"
+text = "增大音量"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 312
+pinyin = "jia1 da4 yin1 liang4"
+play = 40
+playText = "音量已增大"
+status = "warning:存在多音字;"
+text = "加大音量"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 313
+pinyin = "yin1 liang4 zeng1 da4"
+play = 40
+playText = "音量已增大"
+status = "warning:存在多音字;"
+text = "音量增大"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 314
+pinyin = "ti2 gao1 yin1 liang4"
+play = 40
+playText = "音量已增大"
+status = "warning:存在多音字;"
+text = "提高音量"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 315
+pinyin = "jian3 xiao3 yin1 liang4"
+play = 41
+playText = "音量已减小"
+status = "warning:存在多音字;"
+text = "减小音量"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 316
+pinyin = "jiang4 di1 yin1 liang4"
+play = 41
+playText = "音量已减小"
+status = "warning:存在多音字;"
+text = "降低音量"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 317
+pinyin = "yin1 liang4 jian3 xiao3"
+play = 41
+playText = "音量已减小"
+status = "warning:存在多音字;"
+text = "音量减小"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 318
+pinyin = "yu3 yin1 guan1 bi4"
+play = 42
+playText = "语音回复已关闭，你不会听到我说话了"
+status = "ok"
+text = "语音关闭"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 319
+pinyin = "guan1 bi4 yu3 yin1"
+play = 42
+playText = "语音回复已关闭，你不会听到我说话了"
+status = "ok"
+text = "关闭语音"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 320
+pinyin = "yu3 yin1 guan1 diao4"
+play = 42
+playText = "语音回复已关闭，你不会听到我说话了"
+status = "ok"
+text = "语音关掉"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 321
+pinyin = "guan1 diao4 yu3 yin1"
+play = 42
+playText = "语音回复已关闭，你不会听到我说话了"
+status = "ok"
+text = "关掉语音"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 322
+pinyin = "da3 kai1 jia1 shi1"
+play = 43
+playText = "加湿已打开"
+status = "ok"
+text = "打开加湿"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 323
+pinyin = "ting2 zhi3 jia1 shi1"
+play = 44
+playText = "加湿已停止"
+status = "ok"
+text = "停止加湿"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 324
+pinyin = "guan1 bi4 jia1 shi1"
+play = 45
+playText = "加湿已关闭"
+status = "ok"
+text = "关闭加湿"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 325
+pinyin = "da3 kai1 ping2 xian3"
+play = 46
+playText = "屏显已打开"
+status = "warning:存在多音字;"
+text = "打开屏显"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 326
+pinyin = "guan1 bi4 ping2 xian3"
+play = 47
+playText = "屏显已关闭"
+status = "warning:存在多音字;"
+text = "关闭屏显"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 327
+pinyin = "da3 kai1 jie2 neng2"
+play = 48
+playText = "节能已打开"
+status = "ok"
+text = "打开节能"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 328
+pinyin = "guan1 bi4 jie2 neng2"
+play = 49
+playText = "节能已关闭"
+status = "ok"
+text = "关闭节能"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 329
+pinyin = "qu3 xiao1 yu3 yin1 bo1 bao4"
+play = 42
+playText = "语音回复已关闭，你不会听到我说话了"
+status = "ok"
+text = "取消语音播报"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 330
+pinyin = "kai1 qi3 yu3 yin1 bo1 bao4"
+play = 50
+playText = "语音回复已打开"
+status = "ok"
+text = "开启语音播报"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 331
+pinyin = "da3 kai1 qing1 jie2"
+play = 51
+playText = "清洁已打开"
+status = "ok"
+text = "打开清洁"
+msg = ""
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 332
+pinyin = "zui4 gao1 wen1 du4"
+play = 52
+playText = "温度已调到最高"
+status = "warning:存在多音字;"
+text = "最高温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 333
+pinyin = "zui4 di1 wen1 du4"
+play = 53
+playText = "温度已调到最低"
+status = "warning:存在多音字;"
+text = "最低温度"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 334
+pinyin = "jia1 shi1 mo2 shi4"
+play = 54
+playText = "好的，模式已设为加湿"
+status = "warning:存在多音字;"
+text = "加湿模式"
+msg = "存在多音字;"
+
+[[interact]]
+action = "cmd"
+cmds = ""
+id = 335
+pinyin = "guan1 bi4 suo3 you3 kong1 tiao2"
+play = 55
+playText = "所有空调已关闭"
+status = "warning:存在多音字;"
+text = "关闭所有空调"
+msg = "存在多音字;"
+
+[speaker]
+speed = 1.08
+vcn = "x2_yezi"
+volume = 10
+
+[tones]
+include = [ ]
+
+  [[tones.tts]]
+  id = 251
+  text = "测试.mp3"
+
+  [[tones.tts]]
+  id = 1
+  text = "我在"
+
+  [[tones.tts]]
+  id = 2
+  text = "空调已打开"
+
+  [[tones.tts]]
+  id = 3
+  text = "空调已关闭"
+
+  [[tones.tts]]
+  id = 4
+  text = "温度已调高"
+
+  [[tones.tts]]
+  id = 5
+  text = "温度已调低"
+
+  [[tones.tts]]
+  id = 6
+  text = "好的，模式已设为制冷"
+
+  [[tones.tts]]
+  id = 7
+  text = "好的，模式已设为除湿"
+
+  [[tones.tts]]
+  id = 8
+  text = "好的，模式已设为送风"
+
+  [[tones.tts]]
+  id = 9
+  text = "好的，模式已设为通风"
+
+  [[tones.tts]]
+  id = 10
+  text = "好的，模式已设为制热"
+
+  [[tones.tts]]
+  id = 11
+  text = "好的，模式已设为加热"
+
+  [[tones.tts]]
+  id = 12
+  text = "风速档位已设为高"
+
+  [[tones.tts]]
+  id = 13
+  text = "风速档位已设为中"
+
+  [[tones.tts]]
+  id = 14
+  text = "风速档位已设为低"
+
+  [[tones.tts]]
+  id = 15
+  text = "风速已调大"
+
+  [[tones.tts]]
+  id = 16
+  text = "风速模式已设为强力"
+
+  [[tones.tts]]
+  id = 17
+  text = "风速已设为最大"
+
+  [[tones.tts]]
+  id = 18
+  text = "风速已降低"
+
+  [[tones.tts]]
+  id = 19
+  text = "风速模式已设为静音"
+
+  [[tones.tts]]
+  id = 20
+  text = "风速已设为最小"
+
+  [[tones.tts]]
+  id = 21
+  text = "风速模式已设为自动"
+
+  [[tones.tts]]
+  id = 22
+  text = "左右方向摆风已打开"
+
+  [[tones.tts]]
+  id = 23
+  text = "左右方向摆风已开启"
+
+  [[tones.tts]]
+  id = 24
+  text = "左右方向扫风已打开"
+
+  [[tones.tts]]
+  id = 25
+  text = "左右方向摆风已关闭"
+
+  [[tones.tts]]
+  id = 26
+  text = "左右方向摆风已停止"
+
+  [[tones.tts]]
+  id = 27
+  text = "左右方向扫风已关闭"
+
+  [[tones.tts]]
+  id = 28
+  text = "左右方向扫风已停止"
+
+  [[tones.tts]]
+  id = 29
+  text = "上下方向摆风已打开"
+
+  [[tones.tts]]
+  id = 30
+  text = "上下方向摆风已开启"
+
+  [[tones.tts]]
+  id = 31
+  text = "上下方向摆风已关闭"
+
+  [[tones.tts]]
+  id = 32
+  text = "上下方向摆风已停止"
+
+  [[tones.tts]]
+  id = 33
+  text = "扫风已打开"
+
+  [[tones.tts]]
+  id = 34
+  text = "摆风已打开"
+
+  [[tones.tts]]
+  id = 35
+  text = "摆风已关闭"
+
+  [[tones.tts]]
+  id = 36
+  text = "摆风已停止"
+
+  [[tones.tts]]
+  id = 37
+  text = "扫风已关闭"
+
+  [[tones.tts]]
+  id = 38
+  text = "好的，模式已设置为睡眠"
+
+  [[tones.tts]]
+  id = 39
+  text = "睡眠模式已关闭"
+
+  [[tones.tts]]
+  id = 40
+  text = "音量已增大"
+
+  [[tones.tts]]
+  id = 41
+  text = "音量已减小"
+
+  [[tones.tts]]
+  id = 42
+  text = "语音回复已关闭，你不会听到我说话了"
+
+  [[tones.tts]]
+  id = 43
+  text = "加湿已打开"
+
+  [[tones.tts]]
+  id = 44
+  text = "加湿已停止"
+
+  [[tones.tts]]
+  id = 45
+  text = "加湿已关闭"
+
+  [[tones.tts]]
+  id = 46
+  text = "屏显已打开"
+
+  [[tones.tts]]
+  id = 47
+  text = "屏显已关闭"
+
+  [[tones.tts]]
+  id = 48
+  text = "节能已打开"
+
+  [[tones.tts]]
+  id = 49
+  text = "节能已关闭"
+
+  [[tones.tts]]
+  id = 50
+  text = "语音回复已打开"
+
+  [[tones.tts]]
+  id = 51
+  text = "清洁已打开"
+
+  [[tones.tts]]
+  id = 52
+  text = "温度已调到最高"
+
+  [[tones.tts]]
+  id = 53
+  text = "温度已调到最低"
+
+  [[tones.tts]]
+  id = 54
+  text = "好的，模式已设为加湿"
+
+  [[tones.tts]]
+  id = 55
+  text = "所有空调已关闭"
